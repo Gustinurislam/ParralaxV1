@@ -51,8 +51,9 @@ section img#mountains_front {
     position: absolute;
     color: #fff;
     font-size: 8vw;
-    font-weight: 200;
+    font-weight: 500;
     margin-right: -2000px;
+    margin-bottom: 40px 
 }
 #text span {
     font-weight: 700;
